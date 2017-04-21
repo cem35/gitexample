@@ -11,6 +11,7 @@ namespace gitexample
         static void Main(string[] args)
         {
             // buraya gelecek
+            // senk et
         }
     }
 }
